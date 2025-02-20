@@ -103,12 +103,12 @@ footer {
 }
 
 .project-image {
-  width: 200px;
+  width: 600px;
   margin: 0 auto;
 }
 
 .project-image img {
-  width: 60%;
+  width: 100%;
   height: auto;
   border-radius: 10px;
 }
